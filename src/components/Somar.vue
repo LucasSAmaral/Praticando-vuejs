@@ -24,6 +24,7 @@
         border-radius: 2px;
         box-sizing: border-box;
         transition: 0.2s;
+        text-transform: uppercase;
 
         &:hover {
             background-color: black;
